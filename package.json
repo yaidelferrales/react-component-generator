@@ -1,0 +1,17 @@
+{
+  "name": "react-component-generator",
+  "version": "1.0.0",
+  "description": "Generates a basic component for React",
+  "bin": {
+    "generate-react-component": "./index.js"
+  },
+  "main": "./index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "yaidelferrales@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
